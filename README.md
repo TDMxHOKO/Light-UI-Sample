@@ -7,7 +7,7 @@ This project focuses on mobile-first design principles and minimal UI for optima
 
 ## 🔍 Live Demo
 
-👉 [View the live demo here](https://tdmxhoko.github.io/Light_Sample/)
+👉 [View the live demo here](https://tdmxhoko.github.io/Light-UI-Sample/)
 
 ---
 
